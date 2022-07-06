@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>About me</title>
+</head>
+<body>
+    <h2 align = center>About me</h2>
+    <table align=center>
+        <tr>
+            <td>Name</td>
+            <td> - Kivi Amarakoon</td>
+        </tr>
+        <tr>
+            <td>Email Address</td>
+            <td> - kiviamarakoon@gmail.com</td>
+        </tr>
+        <tr>
+            <td>Index</td>
+            <td> - 20020572</td>
+        </tr>
+        <tr>
+            <td>Mobile Number</td>
+            <td> - 071-9320164</td>
+        </tr>
+        <tr>
+            <td>LinkedIn URL</td>
+            <td> - <a href=https://www.linkedin.com/in/kivi-amarakoon-543a84195/>Click me</a></td>
+        </tr>
+    </table>
+</body>
+</html>
